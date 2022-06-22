@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ankush Kundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+//<h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush203041&label=Profile%20views&color=0e75b6&style=flat" alt="ankush203041" /> </p>
 
